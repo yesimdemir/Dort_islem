@@ -1,0 +1,11 @@
+D:\SQL\C# Projeler\Degiskenler_4_islem\Degiskenler_4_islem\bin\Debug\Degiskenler_4_islem.exe.config
+D:\SQL\C# Projeler\Degiskenler_4_islem\Degiskenler_4_islem\bin\Debug\Degiskenler_4_islem.exe
+D:\SQL\C# Projeler\Degiskenler_4_islem\Degiskenler_4_islem\bin\Debug\Degiskenler_4_islem.pdb
+D:\SQL\C# Projeler\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.csproj.AssemblyReference.cache
+D:\SQL\C# Projeler\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.csproj.SuggestedBindingRedirects.cache
+D:\SQL\C# Projeler\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.Form1.resources
+D:\SQL\C# Projeler\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.Properties.Resources.resources
+D:\SQL\C# Projeler\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.csproj.GenerateResource.cache
+D:\SQL\C# Projeler\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.csproj.CoreCompileInputs.cache
+D:\SQL\C# Projeler\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.exe
+D:\SQL\C# Projeler\Degiskenler_4_islem\Degiskenler_4_islem\obj\Debug\Degiskenler_4_islem.pdb
